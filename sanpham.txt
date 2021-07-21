@@ -1,0 +1,4 @@
+SP01	Bánh mì	Cái	Lala	100000.0	80000.0	100
+SP02	Kẹo	Cái	Chup	20000.0	15000.0	200
+SP03	Nước ngọt	Chai	Number1	50000.0	35000.0	60
+SP04	Kem	Cái	Merino	20000.0	15000.0	10
